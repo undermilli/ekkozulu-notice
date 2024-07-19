@@ -1,6 +1,6 @@
-startdate: 2024-07-11
-enddate: 2024-07-12
-
+startDate: 2024-07-11
+endDate: 2024-07-12
+patchNote:
 *Hello, EkkoZulu beta testers! We're excited to bring you the first patch of the year. Here are the details of what’s new:
 
 <div align="center">
